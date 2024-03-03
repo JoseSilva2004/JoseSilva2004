@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a junior developer from Venezuela with 2 years of experience in web application development. I am passionate about technology and I like to stay up to date with the latest trends in the world of web development and programming. I am a proactive person, with the ability to work as a team and willing to learn and improve continuously.<br>
+I am a junior developer from Venezuela. I am passionate about technology and I like to stay up to date with the latest trends in the world of web development and programming. I am a proactive person, with the ability to work as a team and willing to learn and improve continuously.<br>
 
 
 # 💻 Tech Stack:
